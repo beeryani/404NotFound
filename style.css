@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@800&family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@800&family=Montserrat:wght@300&family=Space+Mono&display=swap');
+html{
+    background-color: #FFFFFF;
+}
+
+img{
+    height: 415px;
+    width: 550px;
+}
+
+.container{
+    display: flex;  
+    margin-left:77px;
+}
+
+.text{
+    margin-left: 77px;
+}
+
+.not-found{
+    color:#333333;
+    font-family: 'Inconsolata';
+    font-size: 24px;
+    font-style: bold;
+    vertical-align: top;
+    line-height: 100%;
+    line-height: 25px;
+    letter-spacing: -8%;
+    margin-left: 77px;
+    margin-top: 40px;
+}
+
+.gap{
+    height: 100px;
+}
+
+.bad-news{
+    font-family:'Space Mono';
+    font-size: 64px;
+    line-height: 95px;
+    width: 586px;
+    color: #333333;
+    letter-spacing: -3.5%;
+    vertical-align: Top;
+}
+
+.para{
+    font-family: 'Space Mono';
+    font-size:24px;
+    line-height: 100%;
+    line-height: 36px;
+    vertical-align: top;
+    width: 381px;
+}
+
+button{
+
+    font-family: 'Space Mono';
+    width: 216px;
+    height: 68px;
+    background-color: #333333;
+    color: #FFFFFF;
+}
+
+footer{
+    margin-left: 577px;
+    margin-top:125px;
+    font-family: 'Montserrat';
+    color: #BDBDBD;
+    font-style: mixed;
+}
