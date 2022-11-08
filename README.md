@@ -32,7 +32,7 @@
 
 ## Overview
 
-![screenshot](<img width="1440" alt="image" src="https://user-images.githubusercontent.com/38065503/200634379-7b135afc-a9ed-4958-b4d4-bb7931178f81.png">)
+![screenshot](https://user-images.githubusercontent.com/38065503/200634379-7b135afc-a9ed-4958-b4d4-bb7931178f81.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
